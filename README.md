@@ -14,3 +14,5 @@ A modern and responsive weather dashboard built using HTML, CSS, and JavaScript 
 📱 Fully responsive design
 ✨ Modern Glassmorphism UI
 ⚡ Fast and lightweight application
+
+Technolgy
