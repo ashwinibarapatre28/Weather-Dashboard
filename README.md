@@ -1,18 +1,32 @@
-🌦️ Aether Weather Dashboard
-A modern and responsive weather dashboard built using HTML, CSS, and JavaScript that provides real-time weather information, hourly forecasts, and 7-day weather predictions using the Open-Meteo API.
+🌦️ Weather Dashboard
+
+A responsive and user-friendly Weather Dashboard web application that provides real-time weather information for any city. Users can search for a location and instantly view current weather conditions such as temperature, humidity, wind speed, and weather status.
 
 🚀 Features
 🔍 Search weather by city name
-📍 Current location weather using Geolocation API
-🌡️ Real-time temperature and weather conditions
-⏰ Hourly weather forecast
-📅 7-Day weather forecast
-⭐ Save favorite locations
-📊 Interactive temperature and rainfall trend chart
-🌙 Dynamic weather-based themes
-🔄 Celsius (°C) and Fahrenheit (°F) conversion
+🌡️ Real-time temperature updates
+💧 Humidity information
+🌬️ Wind speed details
+☁️ Weather condition display
 📱 Fully responsive design
-✨ Modern Glassmorphism UI
-⚡ Fast and lightweight application
+🎨 Clean and modern user interface
 
-Technolgy
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+Weather API (OpenWeatherMap or relevant API)
+
+📂 Project Structure
+Weather-Dashboard/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+
+📖 Usage
+Enter a city name in the search box.
+Click the Search button.
+View the current weather information for the selected city.
